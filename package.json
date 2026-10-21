@@ -1,0 +1,11 @@
+{
+  "name": "clawchat",
+  "version": "0.1.0",
+  "description": "Open-source AI chatbot for any website — crawls your site with webclaw and answers visitors from your own content.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "lint": "echo \"lint coming in Phase 5\""
+  }
+}
